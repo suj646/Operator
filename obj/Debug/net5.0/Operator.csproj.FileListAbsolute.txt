@@ -1,0 +1,16 @@
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\Operator.exe
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\Operator.deps.json
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.json
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.dev.json
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\Operator.dll
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\ref\Operator.dll
+F:\DOTNET\Operator\Operator\bin\Debug\net5.0\Operator.pdb
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.csproj.AssemblyReference.cache
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfoInputs.cache
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfo.cs
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.csproj.CoreCompileInputs.cache
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.dll
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\ref\Operator.dll
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.pdb
+F:\DOTNET\Operator\Operator\obj\Debug\net5.0\Operator.genruntimeconfig.cache
